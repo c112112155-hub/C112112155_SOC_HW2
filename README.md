@@ -116,4 +116,6 @@ GIC 暫存器的詳細欄位在 UG585 Appendix B 的 Generic Interrupt Controlle
 ---
 
 ## Q3:
+### 積木設計
+<img width="1453" height="766" alt="image" src="https://github.com/user-attachments/assets/480c84ea-a07e-45f5-a0e4-a2618cd22d5c" />
 
