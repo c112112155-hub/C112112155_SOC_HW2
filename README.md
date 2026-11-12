@@ -1,9 +1,7 @@
 # C112112155_SOC_HW2
 ## 題目一
 查找：
-User Guide
-Programming Guide
-BSP
+User Guide,Programming Guide,BSP
 並了解 Zynq-7020 Interrupt 架構。
 
 ## 題目二
